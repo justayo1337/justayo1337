@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HTB Cyber Apocalypse CTF 2022 — Puppeteer Write up](https://systemweakness.com/htb-cyber-apocalypse-ctf-2022-puppeteer-write-up-5c3e5db15940?source=rss-759c6d37f7bc------2)
+- [IDE — TryHackMe](https://medium.com/@justayo1337/ide-tryhackme-5f234a6d1fbc?source=rss-759c6d37f7bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
