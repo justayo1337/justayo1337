@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justayo1337&label=Profile%20views&color=0e75b6&style=flat" alt="justayo1337" /> </p>
 
-- 🌱 I’m currently learning **C,Assembly**
+- 🌱 I’m currently learning **C, Assembly, Go**
 
 - 📝 I sometimes write articles on [https://medium.com/@justayo1337](https://medium.com/@justayo1337)
 
