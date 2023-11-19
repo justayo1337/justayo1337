@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C,Assembly**
 
-- 📝 I regularly write articles on [https://medium.com/@justayo1337](https://medium.com/@justayo1337)
+- 📝 I sometimes write articles on [https://medium.com/@justayo1337](https://medium.com/@justayo1337)
 
-- 📫 How to reach me **ayo.adetunji@drexel.edu**
+- 📫 How to reach me **ayo.adetunji@drexel.edu/ayobo.adetunji@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
