@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GO, C, Assembly**
 
-- 📝 I sometimes write articles on [https://medium.com/@justayo1337](https://medium.com/@justayo1337)
+- 📝 I sometimes write articles on [ayomideadetunji.me](https://ayomideadetunji.me/posts/)
 
 - 📫 How to reach me **ayo.adetunji@drexel.edu/ayobo.adetunji@gmail.com**
 
